@@ -69,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I moved from the United Kingdom to the USA a long time ago which is why I have a pretty strange accent. I moved to Nashville to pursue a degree in Audio Engineering, however, my best friend convinced me that more opportunities would be available to me if I switched to Mathematics. I owe her a lot (thanks bestie!). I finished my BS in Mathematics at Belmont University and then continued onto Vanderbilt University to get an MS in Biostatistics. I am currently a Data Scientist at naviHealth located in Brentwood, TN, and professor of statistics at Belmont. Outside of my busy work schedule, I am an abstract painter. I have some pictures of my art pieces below which are avilable for purchase. 
