@@ -55,5 +55,17 @@ subtitle = ""
   icon_pack = "fas"
   name = "Natural Language Processing"
   description = ""
+  
+ [[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Teaching"
+  description = ""
+  
+ [[feature]]
+  icon = "infinity"
+  icon_pack = "fas"
+  name = "Mathematics"
+  description = ""
 
 +++
