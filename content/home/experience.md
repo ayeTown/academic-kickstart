@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.navihealth.com/"
   location = "Brentwood, TN"
   date_start = "2017-03-18"
-  date_end = "current"
+  date_end = ""
   description = """
   Responsibilities include:
   
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = "http://www.belmont.edu/"
   location = "California"
   date_start = "2017-01-01"
-  date_end = "current"
+  date_end = ""
   description = """
 
 +++
