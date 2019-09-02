@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Alice Townsend
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Scientist & Professor of Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: naviHealth
+  url: "https://www.navihealth.com/"
+- name: Belmont University
+  url: "http://www.belmont.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a data scientist, professor of statistics, and abstract painter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Statistics
+- Abstract Painting
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Biostatistics
+    institution: Vanderbilt University
+    year: 2017
+  - course: BS in Mathematics
+    institution: Belmont University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
