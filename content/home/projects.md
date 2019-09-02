@@ -67,8 +67,6 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-  [pic_name](/img/AMELIORATE.jpg)
-  
 [advanced]
  # Custom CSS. 
  css_style = ""
