@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist & Professor of Statistics
+role: Data Scientist, Professor of Statistics, Abstract Painter & CEO of Kogu
 
 # Organizations/Affiliations
 organizations:
