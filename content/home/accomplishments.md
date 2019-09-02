@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+# date_format = "Jan 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "The Catalyst Award"
   url = ""
   certificate_url = ""
-  date_start = ""
+  date_start = "2018-10-01"
   date_end = ""
   description = ""
 
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "The Raymond H Medley Jr Outstanding Senior Mathematics Award"
   url = ""
   certificate_url = ""
-  date_start = ""
+  date_start = "2018-10-01"
   date_end = ""
   description = ""
   
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   title = "Belmont University Deans List"
   url = ""
   certificate_url = ""
-  date_start = ""
+  date_start = "2018-10-01"
   date_end = ""
   description = ""
 
