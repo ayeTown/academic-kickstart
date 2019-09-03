@@ -27,13 +27,13 @@ height = "500px"
   # overlay_filter = 0.5
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
+  title = "Art Work"
+  content = ""
   align = "left"
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  # overlay_color = "#555"  # An HTML color value.
+  overlay_img = "CALM.jpeg"  # Image path relative to your `static/img/` folder.
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Right"
