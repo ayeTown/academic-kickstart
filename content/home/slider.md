@@ -26,8 +26,8 @@ height = "calc(100vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = ""
-  content = "center"
-  align = "right"  # Choose `center`, `left`, or `right`.
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
