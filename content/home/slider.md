@@ -17,8 +17,8 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Art Work"
-  content = ":smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  content = ""
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
