@@ -25,8 +25,8 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Art Work"
-  content = ""
+  title = ""
+  content = "center"
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -34,6 +34,24 @@ height = "calc(100vh - 70px)"
   # overlay_color = "#555"  # An HTML color value.
   overlay_img = "AMELIORATE.jpeg"  # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.5
+  
+[[item]]
+  title = ""
+  content = ""
+  align = "center"
+
+  # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "THROUGH.jpeg"  # Image path relative to your `static/img/` folder.
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = ""
+  content = ""
+  align = "center"
+
+  # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "USE ME UP.jpeg"  # Image path relative to your `static/img/` folder.
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
@@ -41,15 +59,26 @@ height = "calc(100vh - 70px)"
   align = "center"
 
   # overlay_color = "#555"  # An HTML color value.
-  overlay_img = "CHAOS.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "VENOM.jpeg"  # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
+  
+ [[item]]
   title = ""
   content = ""
   align = "center"
 
-  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "DRAMA FREE.jpeg"  # Image path relative to your `static/img/` folder.
+  # overlay_color = "#555"  # An HTML color value.
+  overlay_img = "CHAOS.jpeg"  # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+ [[item]]
+  title = ""
+  content = ""
+  align = "center"
+
+  # overlay_color = "#555"  # An HTML color value.
+  overlay_img = "ROSE.jpeg"  # Image path relative to your `static/img/` folder.
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+
 +++
