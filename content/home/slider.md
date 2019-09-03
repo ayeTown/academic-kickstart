@@ -22,9 +22,9 @@ height = ""
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "static/img/AMELIORATE.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5
+  # overlay_color = "#555"  # An HTML color value.
+  overlay_img = "AMELIORATE.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_filter = 0.5
 
 [[item]]
   title = "Left"
