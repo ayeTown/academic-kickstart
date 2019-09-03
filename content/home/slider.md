@@ -7,8 +7,8 @@ weight = 1  # Order that this section will appear.
 
 title = "Art Work"
 
-[design]
-  view = 3
+# [design]
+  # view = 3
 
 # [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -20,7 +20,7 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "1000px"
+# height = "1000px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
