@@ -5,9 +5,14 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-[design.spacing]
+title = "Art Work"
+
+[design]
+  columns = "2"
+
+# [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "400px", "0px", "400px"]
+  # padding = ["0px", "400px", "0px", "400px"]
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
