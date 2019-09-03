@@ -7,7 +7,7 @@ weight = 1  # Order that this section will appear.
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0", "20px", "0", "20px"]
+  padding = ["0", "500px", "0", "500px"]
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
