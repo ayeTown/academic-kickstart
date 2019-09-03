@@ -22,17 +22,9 @@ height = ""
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  # overlay_color = ""  # An HTML color value.
+  overlay_color = "#555"  # An HTML color value.
   overlay_img = "static/img/AMELIORATE.jpg"  # Image path relative to your `static/img/` folder.
-  # overlay_filter = 0.5
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  # cta_label = "Get Academic"
-  # cta_url = "https://sourcethemes.com/academic/"
-  # cta_icon_pack = "fas"
-  # cta_icon = "graduation-cap"
+  overlay_filter = 0.5
 
 [[item]]
   title = "Left"
