@@ -8,7 +8,7 @@ weight = 1  # Order that this section will appear.
 title = "Art Work"
 
 [design]
-  columns = "2"
+  view = 3
 
 # [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
