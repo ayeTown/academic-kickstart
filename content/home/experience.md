@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Brentwood, TN"
   date_start = "2017-03-18"
   date_end = ""
-  description = ""
-  """
+  description = """
   Responsibilities include:
   
   * Analysing
