@@ -24,7 +24,7 @@ bio: I am a data scientist, professor of statistics, and abstract painter.
 
 interests:
 - Data Science
-- Statistics
+- Biostatistics
 - Abstract Painting
 
 education:
