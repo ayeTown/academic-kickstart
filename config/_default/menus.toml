@@ -14,14 +14,14 @@
   weight = 20  
   
 [[main]]
-  name = "Art Work"
-  url = "#slider"
-  weight = 30
-
-[[main]]
   name = "Experience"
   url = "#experience"
   weight = 25
+  
+[[main]]
+  name = "Art Work"
+  url = "#slider"
+  weight = 30
 
 [[main]]
   name = "Achievements"
