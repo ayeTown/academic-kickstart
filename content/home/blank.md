@@ -16,41 +16,41 @@ columns = "2"
   content = ""
   align = "left"  # Choose `center`, `left`, or `right`.
 
-  overlay_img = "static/img/AMELIORATE.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "AMELIORATE.jpeg"  # Image path relative to your `static/img/` folder.
   
 [[item]]
   title = ""
   content = ""
   align = "right"
 
-  overlay_img = "static/img/THROUGH.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "THROUGH.jpeg"  # Image path relative to your `static/img/` folder.
   
 [[item]]
   title = ""
   content = ""
   align = "left"
 
-  overlay_img = "static/img/USE ME UP.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "USE ME UP.jpeg"  # Image path relative to your `static/img/` folder.
   
 [[item]]
   title = ""
   content = ""
   align = "right"
 
-  overlay_img = "static/img/VENOM.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "VENOM.jpeg"  # Image path relative to your `static/img/` folder.
   
  [[item]]
   title = ""
   content = ""
   align = "left"
 
-  overlay_img = "static/img/CHAOS.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "CHAOS.jpeg"  # Image path relative to your `static/img/` folder.
   
  [[item]]
   title = ""
   content = ""
   align = "right"
 
-  overlay_img = "static/img/ROSE.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "ROSE.jpeg"  # Image path relative to your `static/img/` folder.
 
 +++
