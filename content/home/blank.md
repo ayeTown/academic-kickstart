@@ -2,7 +2,7 @@
 # Blank widget.
 widget = "blank" 
 headless = true  
-active = true  
+active = false  
 weight = 25  
 
 title = "Art Work"
