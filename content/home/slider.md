@@ -12,7 +12,7 @@ title = "Art Work"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "400px", "0px", "400px"]
+  # padding = ["0px", "400px", "0px", "400px"]
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -22,7 +22,7 @@ title = "Art Work"
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
 # height = "calc(100vh - 70px)"
 
- height = "500px"
+ height = "1500px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
