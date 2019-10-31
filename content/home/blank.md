@@ -30,7 +30,7 @@ columns = "2"
 [[item]]
   title = ""
   content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -41,7 +41,7 @@ columns = "2"
 [[item]]
   title = ""
   content = ""
-  align = "center"
+  align = "right"
 
   # overlay_color = "#333"  # An HTML color value.
   overlay_img = "THROUGH.jpeg"  # Image path relative to your `static/img/` folder.
@@ -50,7 +50,7 @@ columns = "2"
 [[item]]
   title = ""
   content = ""
-  align = "center"
+  align = "left"
 
   # overlay_color = "#333"  # An HTML color value.
   overlay_img = "USE ME UP.jpeg"  # Image path relative to your `static/img/` folder.
@@ -59,7 +59,7 @@ columns = "2"
 [[item]]
   title = ""
   content = ""
-  align = "center"
+  align = "right"
 
   # overlay_color = "#555"  # An HTML color value.
   overlay_img = "VENOM.jpeg"  # Image path relative to your `static/img/` folder.
@@ -68,7 +68,7 @@ columns = "2"
  [[item]]
   title = ""
   content = ""
-  align = "center"
+  align = "left"
 
   # overlay_color = "#555"  # An HTML color value.
   overlay_img = "CHAOS.jpeg"  # Image path relative to your `static/img/` folder.
@@ -77,7 +77,7 @@ columns = "2"
  [[item]]
   title = ""
   content = ""
-  align = "center"
+  align = "right"
 
   # overlay_color = "#555"  # An HTML color value.
   overlay_img = "ROSE.jpeg"  # Image path relative to your `static/img/` folder.
