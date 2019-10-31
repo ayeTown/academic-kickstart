@@ -4,7 +4,7 @@ widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
-height = "625px"
+height = "600px"
 # height = "calc(100vh - 70px)"
 
 title = "Art Work"
