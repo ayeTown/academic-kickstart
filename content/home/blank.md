@@ -7,26 +7,10 @@ weight = 25  # Order that this section will appear.
 
 title = "Art Work"
 
-# [design]
+[design]
 
 columns = "2"
 
-  # view = 3
-
-# [design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  # padding = ["0px", "400px", "0px", "400px"]
-
-# Slide interval.
-# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-#interval = false
-
-# Slide height (optional).
-# E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-#height = "calc(100vh - 70px)"
-
-# Slides.
-# Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = ""
   content = ""
