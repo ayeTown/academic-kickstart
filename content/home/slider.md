@@ -22,7 +22,7 @@ interval = false
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
 # height = "calc(100vh - 70px)"
 
-height = "300px"
+height = "700px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
