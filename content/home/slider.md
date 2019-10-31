@@ -13,7 +13,7 @@ title = "Art Work"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  # padding = ["0px", "400px", "0px", "400px"]
+  padding = ["0px", "200px", "0px", "200px"]
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
