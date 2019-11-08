@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   description = "Covers descriptive measures, probability distributions, one and two sample confidence intervals and hypothesis tests, and linear regression analysis."
 
 [[experience]]
-  title = "Senior Data Scientist"
+  title = "Junior Data Scientist"
   company = "naviHealth"
   company_url = "https://www.navihealth.com/"
   location = "Brentwood, TN"
