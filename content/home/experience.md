@@ -24,11 +24,11 @@ date_format = "Jan 2006"
   location = "Brentwood, TN"
   date_start = "2017-03-18"
   date_end = ""
-  description = """Developed a patient-facing Skilled Nursing Facility (SNF) selection tool which identifies top SNFs based on the patient’s specific needs. Developed prototype for Health Plans to select a SNF network. Utilized AnyLogic simulation tool to improve operations staffing model.
+  description = """Developed a patient-facing Skilled Nursing Facility (SNF) selection tool which identifies top SNFs based on the patient’s specific needs. Utilized AnyLogic simulation tool to improve operations staffing model.
   
   Responsibilities include:
   
-  * Analysing
+  * Statistical Analysis
   * Modeling
   * Data Cleaning
   * Shiny Web Prototype Applications
@@ -43,4 +43,20 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Covers descriptive measures, probability distributions, one and two sample confidence intervals and hypothesis tests, and linear regression analysis."
 
+[[experience]]
+  title = "Senior Data Scientist"
+  company = "naviHealth"
+  company_url = "https://www.navihealth.com/"
+  location = "Brentwood, TN"
+  date_start = "2017-03-18"
+  date_end = "2017-09-01"
+  description = """Developed a Skilled Nursing Facility (SNF) network selection tool for Health Plans which identifies top SNFs based on quality and efficiency metrics. Built an natural language processing tool for auditing internal processes.
+  
+  Responsibilities include:
+  
+  * Statistical Analysis
+  * Modeling
+  * Data Cleaning
+  * Shiny Web Prototype Applications
+  """
 +++
