@@ -38,6 +38,16 @@ subtitle = ""
   date_end = ""
   description = ""
   
+  [[item]]
+  organization = "Belmont University"
+  organization_url = "https://www.belmont.edu"
+  title = "Magna Cum Laude"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-05-01"
+  date_end = ""
+  description = ""
+  
 [[item]]
   organization = "Belmont University"
   organization_url = "http://www.belmont.edu/"
