@@ -33,6 +33,7 @@ date_format = "Jan 2006"
   * Data Cleaning
   * Shiny Web Prototype Applications
   
+  
   Certifications: 
   
   * Neural Networks and Deep Learning
