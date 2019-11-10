@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   
   Certifications: 
   
-  * Neural Networks and Deep Learning
+  * Coursera: Neural Networks and Deep Learning
   """
 
 [[experience]]
