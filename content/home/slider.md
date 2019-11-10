@@ -4,7 +4,7 @@ widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
-height = "600px"
+height = "550px"
 # height = "calc(100vh - 70px)"
 
 title = "Art Work"
@@ -14,7 +14,7 @@ title = "Art Work"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "300px", "0px", "300px"]
+  padding = ["0px", "250px", "0px", "250px"]
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
