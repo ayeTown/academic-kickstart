@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   * Statistical Analysis
   * Modeling
   * Data Cleaning
-  * Shiny Web Prototype Applications
+  * Prototype Development with R Shiny
   * Project Management
   
   
@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   * Statistical Analysis
   * Modeling
   * Data Cleaning
-  * Shiny Web Prototype Applications
+  * Prototype Development with R Shiny
   * Project Management
   """
 [[experience]]
