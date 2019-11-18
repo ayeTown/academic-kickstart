@@ -32,6 +32,7 @@ date_format = "Jan 2006"
   * Modeling
   * Data Cleaning
   * Shiny Web Prototype Applications
+  * Project Management
   
   
   Certifications: 
@@ -55,7 +56,7 @@ date_format = "Jan 2006"
   location = "Brentwood, TN"
   date_start = "2017-03-18"
   date_end = "2017-09-01"
-  description = """Developed a Skilled Nursing Facility (SNF) network selection tool for Health Plans which identifies top SNFs based on quality and efficiency metrics. Built an natural language processing tool for auditing internal processes.
+  description = """Developed a Skilled Nursing Facility (SNF) network selection tool for Health Plans which identifies top SNFs based on quality and efficiency metrics. Built a natural language processing tool for auditing internal processes.
   
   Responsibilities include:
   
@@ -63,6 +64,7 @@ date_format = "Jan 2006"
   * Modeling
   * Data Cleaning
   * Shiny Web Prototype Applications
+  * Project Management
   """
 [[experience]]
   title = "Mathematics Tutor & Office Assistant"
