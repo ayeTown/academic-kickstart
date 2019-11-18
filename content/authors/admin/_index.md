@@ -25,6 +25,7 @@ bio: I am a data scientist, professor of statistics, and abstract painter.
 interests:
 - Data Science
 - Biostatistics
+- Teaching
 - Abstract Painting
 
 education:
@@ -69,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I moved from the United Kingdom to the USA a long time ago which is why I have a pretty strange accent. I moved to Nashville to pursue a degree in Audio Engineering, however, my best friend convinced me that more opportunities would be available to me if I switched to Mathematics. I owe her a lot (thanks bestie!). I finished my BS in Mathematics at Belmont University and then continued onto Vanderbilt University to get an MS in Biostatistics. I am currently a Data Scientist at naviHealth located in Brentwood, TN, and professor of statistics at Belmont. Outside of my busy work schedule, I am an abstract painter. I have some pictures of my art pieces below which are avilable for purchase https://atownabstract.etsy.com. Check 'em out!
+I moved from the United Kingdom to the USA a long time ago which is why I have a pretty strange accent. I moved to Nashville to pursue a degree in Audio Engineering, but soon realized that there would be more opportunities available to me if I switched to Mathematics. I finished my BS in Mathematics at Belmont University and then continued onto Vanderbilt University to get an MS in Biostatistics. I am currently a Data Scientist at naviHealth located in Brentwood, TN, and a professor of Statistics at Belmont. Outside of my passions of data science and teaching, I enjoy abstract painting whenever I get the chance. I have some pictures of my art pieces below which are avilable for purchase at https://atownabstract.etsy.com. Check 'em out!
