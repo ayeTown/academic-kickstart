@@ -64,6 +64,7 @@ date_format = "Jan 2006"
   * Modeling
   * Data Cleaning
   * Prototype Development with R Shiny
+  * Tableau Reporting
   * Project Management
   """
 [[experience]]
