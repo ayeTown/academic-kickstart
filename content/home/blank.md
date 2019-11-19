@@ -46,11 +46,11 @@ columns = "2"
 
   overlay_img = "CHAOS.jpeg"  # Image path relative to your `static/img/` folder.
   
- [[item]]
-  title = ""
-  content = ""
-  align = "right"
+ # [[item]]
+  # title = ""
+  # content = ""
+  # align = "right"
 
-  overlay_img = "ROSE.jpeg"  # Image path relative to your `static/img/` folder.
+  # overlay_img = "ROSE.jpeg"  # Image path relative to your `static/img/` folder.
 
 +++
