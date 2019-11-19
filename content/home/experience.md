@@ -32,12 +32,14 @@ date_format = "Jan 2006"
   * Modeling
   * Data Cleaning
   * Prototype Development with R Shiny
+  * Discrete Event Simulation with Anylogic
   * Project Management
   
   
   Certifications: 
   
   * Coursera: Neural Networks and Deep Learning
+  * AnyLogic Simulation Software Training
   """
 
 [[experience]]
