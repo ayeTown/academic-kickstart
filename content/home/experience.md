@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   date_end = "2017-09-01"
   description = """Developed a Skilled Nursing Facility (SNF) network selection tool for Health Plans which identifies top SNFs based on quality and efficiency metrics. Built a natural language processing tool for auditing internal processes.
   
-  Responsibilities include:
+  Responsibilities included:
   
   * Statistical Analysis
   * Modeling
