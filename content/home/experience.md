@@ -74,6 +74,6 @@ date_format = "Jan 2006"
   location = "Nashville, TN"
   date_start = "2012-08-01"
   date_end = "2014-05-01"
-  description = """Tutored students in college Algebra, Quantitative Methods in Business, Pre-Calculus, Calculus I-III, Linear Algebra & Statistics. Performed various tasks within the Mathematics department as an office assistant.   
+  description = """Tutored students in College Algebra, Quantitative Methods in Business, Pre-Calculus, Calculus I-III, Linear Algebra & Statistics. Performed various tasks within the Mathematics department as an office assistant.   
   """
 +++
